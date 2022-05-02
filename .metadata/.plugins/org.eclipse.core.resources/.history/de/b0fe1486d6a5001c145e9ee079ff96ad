@@ -1,0 +1,12 @@
+package com.TWRSPROJ2_BE;
+
+public class Getnumber {
+public int fileno;
+	
+	public void setfileno(int fileno) {
+		this.fileno = fileno;
+	}
+	public int getfileno() {
+		return fileno;
+	}
+}
